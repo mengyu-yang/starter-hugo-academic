@@ -5,7 +5,6 @@ authors:
   - admin
   - Leonid Sigal
 
-date: 2021
 publication_types:
   - "1"
 draft: false
@@ -14,7 +13,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_pdf: "https://arxiv.org/abs/2110.13412v1"
+url_paper: "https://proceedings.neurips.cc/paper/2021/hash/51200d29d1fc15f5a71c1dab4bb54f7c-Abstract.html"
 url_code: "https://github.com/ubc-vision/TriBERT"
 
 ---
