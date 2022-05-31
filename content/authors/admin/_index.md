@@ -67,8 +67,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a Machine Learning Developer at [StratumAI](https://www.stratum.ai/). Previously, I was a research intern at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), where I worked with [Alireza Makhzani](http://www.alireza.ai/), [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/), and [Sageev Oore](https://www.cs.smu.ca/~sageev/). 
 
-I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) with Honours from the University of Toronto, where I specialized in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). I'm also excited to announce that I will be starting my PhD in Computer Science at Georgia Tech in Fall 2022!
+<!-- Hi! I'm a Machine Learning Developer at [StratumAI](https://www.stratum.ai/). Previously, I was a research intern at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/), where I worked with [Alireza Makhzani](http://www.alireza.ai/), [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/), and [Sageev Oore](https://www.cs.smu.ca/~sageev/). 
 
-{{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/mengyu_yang_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) with Honours from the University of Toronto, where I specialized in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). I'm also excited to announce that I will be starting my PhD in Computer Science at Georgia Tech in Fall 2022! -->
+
+<!-- {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/mengyu_yang_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+ -->
