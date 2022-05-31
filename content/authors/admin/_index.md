@@ -19,10 +19,10 @@ interests:
   
 # Education to show in About widget
 education:
-  courses:
-    - course: BASc in Engineering Science
-      institution: University of Toronto
-      year: 2017-2021
+#  courses:
+#    - course: BASc in Engineering Science
+#      institution: University of Toronto
+#      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
