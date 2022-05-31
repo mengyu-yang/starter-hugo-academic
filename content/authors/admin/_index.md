@@ -25,7 +25,7 @@ education:
   courses:
     - course: BASc in Engineering Science
       institution: University of Toronto
-      year: 2021
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
