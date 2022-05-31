@@ -16,10 +16,6 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Generative models
-  - Representation learning
-  - Video understanding
-  - Multi-modal learning (focus on vision and audio)
   
 # Education to show in About widget
 education:
@@ -63,3 +59,15 @@ Hi! I'm a Machine Learning Developer at [StratumAI](https://www.stratum.ai/). Pr
 I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) with Honours from the University of Toronto, where I specialized in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/). I'm also excited to announce that I will be starting my PhD in Computer Science at Georgia Tech in Fall 2022! 
 
 {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/mengyu_yang_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+Research Interests 
+======
+
+My interests lie in **machine learning**. My goal is to build models capable of understanding the multi-modal world, particularly vision and audio, and synthesizing it in digital form. 
+
+Topics I am currently exploring are:  
+
+* Generative models 
+* Representation learning
+* Video understanding
+* Multi-modal learning (focus on vision and audio)
