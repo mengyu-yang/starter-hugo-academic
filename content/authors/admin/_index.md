@@ -16,15 +16,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-
-My interests lie in machine learning. My goal is to build models capable of understanding the multi-modal world, particularly vision and audio, and synthesizing it in digital form.
-
   - Generative models
   - Representation learning
   - Video understanding
   - Multi-modal learning (focus on vision and audio)
-
-
+  
 # Education to show in About widget
 education:
   courses:
