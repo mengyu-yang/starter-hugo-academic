@@ -1,6 +1,6 @@
 ---
 title: Building a Dataset for Music Analysis and Conditional Generation
-summary: Undergraduate thesis on deep learning for music generation and analysis. 
+summary: My undergraduate thesis on deep learning for music generation and analysis. 
 tags:
 
 date: '2021-04-27T00:00:00Z'
