@@ -22,7 +22,8 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: 'Workshop Paper'
+publication_types: 
+  - 'Workshop Paper'
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS 2020 Workshop on Machine Learning for Creativity and Design*
