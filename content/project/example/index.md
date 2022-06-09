@@ -13,7 +13,7 @@ image:
 links:
 
 url_code: ''
-url_pdf: "static/uploads/Thesis_Report.pdf" 
+url_pdf: "uploads/Thesis_Report.pdf" 
 url_slides: ''
 url_video: ''
 
