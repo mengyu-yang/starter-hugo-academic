@@ -70,4 +70,4 @@ Topics I am currently exploring are:
 * Generative models 
 * Representation learning
 * Video understanding
-* Multi-modal learning (focus on vision and audio)
+* Multi-modal learning 
