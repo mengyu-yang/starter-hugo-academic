@@ -26,7 +26,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: my.yang@mail.utoronto.ca
+  email: my.yang@gatech.edu
   phone: 
   address:
     
