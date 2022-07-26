@@ -31,7 +31,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas 
-    link: "mailto:my.yang@mail.utoronto.ca"
+    link: "mailto:my.yang@gatech.edu"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=P5UnIzcAAAAJ&hl=en
